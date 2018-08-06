@@ -1,0 +1,14 @@
+{
+  "name": "discordbottut",
+  "version": "0.0.1",
+  "description": "dlks.m/;\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "grummy",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js"
+  }
+}
